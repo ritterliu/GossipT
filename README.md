@@ -1,2 +1,2 @@
 # gossip
-A chat programme.
+An anonymous chat programe.
